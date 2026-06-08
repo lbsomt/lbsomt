@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi I'm Logan this is my company asscociated github
+ - email me at logan.baker@oceanmotion.tech
 
 <!--
 **lbsomt/lbsomt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
